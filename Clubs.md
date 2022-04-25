@@ -5,7 +5,7 @@
 - boats!
 - water!
 - competition!
-![Rowing Image](x)
+![Rowing Image](https://github.com/Hannahgt289/Hannah-Thomas/blob/main/Assets/IMG_1829.jpeg?raw=true)
 
 ### Ceramics
 *Treasurer*
