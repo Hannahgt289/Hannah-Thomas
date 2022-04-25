@@ -1,11 +1,13 @@
 ## Clubs Webpage
 
-**Rowing**
+###Rowing
+**Vice President**
 - boats!
 - water!
 - competition!
 
-**Ceramics**
+###Ceramics
+**Treasurer**
 - clay!
 - mugs!
 - tea!
