@@ -5,6 +5,7 @@
 - boats!
 - water!
 - competition!
+![Rowing Image](x)
 
 ### Ceramics
 *Treasurer*
