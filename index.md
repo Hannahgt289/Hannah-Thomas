@@ -1,2 +1,2 @@
 # About Hannah Thomas
-[Clubs Page](Clubs)
+[Clubs Page](Clubs.md)
